@@ -1,0 +1,6 @@
+
+        rootProject.name = 'Mon_3'
+
+        include ':app'
+        /* add slim_filename application modules here */
+        
